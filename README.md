@@ -3,7 +3,7 @@
 
 # 👋 Hey there! I'm Rithin Rajpoot
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Problem+Solver" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Problem+Solver" alt="Typing SVG" /> 
 
 <p align="center">
   <a href="https://rithin-portfolio.vercel.app">
@@ -26,7 +26,7 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="400" height="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<!-- <img align="right" alt="Coding" width="400" height="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
 
 ```javascript
 const rithin = {
