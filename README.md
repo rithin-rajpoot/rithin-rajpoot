@@ -48,7 +48,6 @@ const rithin = {
 
 🔭 Currently working on **Real-Time Applications** with Socket.io  
 💬 Ask me about **MERN Stack, Data Structures, or anything tech-related**  
-⚡ Fun fact: **Solved 300+ coding problems and still counting!**
 
 <br clear="both">
 
