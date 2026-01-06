@@ -88,45 +88,6 @@ const rithin = {
 
 ---
 
-## 🏆 Featured Projects
-
-<div align="center">
-
-### 🩸 UberForBlood - Real-Time Blood Donation Platform
-<p>
-  <a href="https://github.com/rithin-rajpoot/uberforblood">
-    <img src="https://img.shields.io/badge/📂_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository" />
-  </a>
-</p>
-
-**Tech Stack:** `MERN` `Socket.io` `Redux Toolkit` `MongoDB` `JWT`
-
-🔹 Real-time donor-seeker interaction platform  
-🔹 Geolocation API optimization (~80% performance boost)  
-🔹 Secure authentication & scalable state management  
-
----
-
-### 💬 Gup Shup - Real-Time Chat Application
-<p>
-  <a href="https://github.com/rithin-rajpoot/gupshup">
-    <img src="https://img.shields.io/badge/📂_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository" />
-  </a>
-  <a href="https://chat-app-bhh8.vercel.app">
-    <img src="https://img.shields.io/badge/🚀_Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
-  </a>
-</p>
-
-**Tech Stack:** `React.js` `Node.js` `Socket.io` `Redux` `JWT`
-
-🔹 Instant messaging with WebSocket integration  
-🔹 32+ customizable themes for UI personalization  
-🔹 Mobile-responsive design with modern UI  
-
-</div>
-
----
-
 📈 GitHub Analytics
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rithin-rajpoot&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=86400"/>
